@@ -1,0 +1,2 @@
+/Users/milliespencer/Glacier-DEM-coregistration-and-MB/srtm_data filter=lfs diff=lfs merge=lfs -text
+/Users/milliespencer/Glacier-DEM-coregistration-and-MB/example_data_Nevados filter=lfs diff=lfs merge=lfs -text
