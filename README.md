@@ -1,10 +1,11 @@
 # Glacier-DEM-coregistration-and-MB
 
 This repository contains a jupyter-notebook tutorial for: 
-1. DEM co-registration, following the Nuth and Kääb (2011) workflow
-2. Clipping DEMs to the glacier area polygons of your choice
-3. Differencing DEMs
-4. Computing mean annual glacier mass balance 
+1. Downloading SRTM DEMs from NASA's earthaccess
+2. Co-registration additional DEMs with SRTM, following the Nuth and Kääb (2011) workflow
+3. Clipping co-registered DEMs to the glacier area polygons of your choice
+4. Differencing DEMs
+5. Computing mean annual glacier mass balance 
 
 Example DEMs (Instituto Geográfico Militar, 1954; SRTM, 2000; UAV 2024) and glacier polyons (Dirección General de Aguas 2014; 2019) are provided for the Nevados de Chillán Volcanic complex in Ñuble, Chile 
 
