@@ -1,0 +1,4 @@
+# Ignore SRTM data and example data when pushing to main
+
+/Users/milliespencer/Glacier-DEM-coregistration-and-MB/srtm_data
+/Users/milliespencer/Glacier-DEM-coregistration-and-MB/example_data_Nevados
