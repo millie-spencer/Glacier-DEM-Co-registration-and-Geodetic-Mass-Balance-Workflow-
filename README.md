@@ -12,7 +12,7 @@ Example DEMs (Instituto Geográfico Militar, 1954; SRTM, 2000; UAV 2024) and gla
 <p align="center">
   <img src="https://github.com/user-attachments/assets/de63be35-a4ec-477f-ae55-b39738f68f3a" width="400"/>
   <br>
-  <em>UAV image of Volcán Chillán Nuevo facing north, on the Nevados de Chillán Volcanic Complex</em>
+  <em>UAV image of Volcán Chillán Viejo facing north, on the Nevados de Chillán Volcanic Complex</em>
 </p>
 
 
