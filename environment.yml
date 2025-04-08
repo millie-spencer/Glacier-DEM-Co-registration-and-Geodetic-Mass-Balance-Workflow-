@@ -1,0 +1,20 @@
+name: glacier-env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - geopandas
+  - gdal
+  - rasterio
+  - pyproj
+  - earthaccess
+  - jupyter
+  - matplotlib
+  - pandas
+  - numpy
+  - scikit-learn
+  - shapely
+  - ipykernel
+  - tqdm
+  - pip
