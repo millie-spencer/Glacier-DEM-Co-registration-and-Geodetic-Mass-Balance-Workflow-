@@ -27,7 +27,11 @@ dependencies:
   - sphinx-argparse
   - pyvips
   - ipykernel  # Allows kernel registration for VSCode/Jupyter
+  - wget
   - pip:
       - llc
       - pybob
       - earthaccess
+      - git+https://github.com/dshean/pygeotools.git # these links correspond to the packages necessary for DEM coregistration
+      - git+https://github.com/dshean/demcoreg.git
+      - git+https://github.com/dshean/imview.git
