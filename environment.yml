@@ -1,20 +1,33 @@
 name: glacier-env
 channels:
   - conda-forge
-  - defaults
+  - nodefaults
 dependencies:
-  - python=3.10
+  - python=3.10  # Specify your preferred Python version
+  - pip
+  - numpy
+  - pandas
   - geopandas
   - gdal
   - rasterio
   - pyproj
-  - earthaccess
-  - jupyter
+  - rioxarray
+  - xarray
+  - folium
+  - fiona
   - matplotlib
-  - pandas
-  - numpy
-  - scikit-learn
   - shapely
-  - ipykernel
-  - tqdm
-  - pip
+  - h5py
+  - opencv
+  - scikit-image>=0.19,<0.20.0  # Adjust version as needed
+  - scipy
+  - descartes
+  - numba
+  - jupyter
+  - sphinx-argparse
+  - pyvips
+  - ipykernel  # Allows kernel registration for VSCode/Jupyter
+  - pip:
+      - llc
+      - pybob
+      - earthaccess
