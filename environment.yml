@@ -32,6 +32,7 @@ dependencies:
       - llc
       - pybob
       - earthaccess
+      - rasterstats
       - git+https://github.com/dshean/pygeotools.git # these links correspond to the packages necessary for DEM coregistration
       - git+https://github.com/dshean/demcoreg.git
       - git+https://github.com/dshean/imview.git
